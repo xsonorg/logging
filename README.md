@@ -1,2 +1,4 @@
-# logging
-log components
+日志组建
+===
+
+整合日志和国际化提示管理
